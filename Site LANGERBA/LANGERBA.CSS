@@ -1,0 +1,335 @@
+.navbar
+    {
+        background: #003c5a;  
+        height: 70px; 
+    }
+a.navbar-brand
+    {
+        color: #fff;
+        position: absolute;
+        left: 160px;
+        font-family: adobe hebrew;
+        font-size: 30px;
+        font-weight: bold; 
+
+    }
+a.activ
+    {
+        color: #fff;
+    }
+.nav
+    {
+        position: absolute;
+        left: 450px;
+        font-family: adobe hebrew;
+        top: 15px;
+    }
+.nav a
+    {
+        text-decoration: none;
+        font-size: 10px;
+        font-family: Adobe hebrew;
+        padding-left: 25px;
+    }
+.nav a:hover
+    {
+        color: #fff;
+    
+    }
+.num a
+    {
+        position: absolute;
+        left: 1100px;
+        top: 10px;
+        color: #fff;
+        font-size: 20px;
+        font-family: adobe hebrew;
+        text-decoration: none;
+    }
+.num a:hover
+    {
+        color: #fc8f44;
+    }
+.container1
+    {position: absolute;
+        background: url('Menu1.png');
+        width: 100%;
+        height: 475px;
+        left: 0px;
+        top: 65px;
+        
+    }
+.Im1
+    {
+        position: absolute;
+        width: 100%;
+        
+        left: 0px;
+       
+        height: 80%;
+    }
+.TEXT
+    {
+        
+        margin-left: 40%;
+        font-family: Adobe hebrew;
+        margin-top: 40px;
+    }
+.TEXT1
+    {
+        position: absolute;
+        font-size: 36px;
+        left: 425px;
+        color:white;
+        
+    }
+.TEXT2
+    {
+        position: absolute;
+        font-size: 12px;
+        left: 530px;
+        color: #1488c5;
+        top: 105px;
+    }
+.btn
+    {
+        position: absolute;
+        top: 135px;
+        left: 585px;
+        background-color: #fc8f44;
+        color: #fff;
+        border-radius: 20px;
+        height: 30px;
+        text-align: center;
+        
+    }
+.container
+    {
+        background-color: #eaf2f6;
+        width: 100%;
+        margin-top: 450px;
+    }
+.Im2
+    {
+      
+      width: 30%;
+      height: 30%;
+      margin-left: 670px;
+      padding-top: 80px;
+    }
+.TEXT3
+    {
+        position: absolute;
+        top: 580px;
+        left: 290px;
+        font-family: Adobe hebrew;
+        padding-top: 20px;
+    }
+.P1
+    {
+        font-size: 30px;
+        font-weight: bold;
+    }
+.P2
+    {
+        font-size: 24px;
+    }
+.P3
+    {
+        font-size: 12px;
+        opacity: 65%;
+    }
+.btn2
+    {
+        background-color: #fc8f44;
+        color: #fff;
+        border-radius: 20px;
+        height: 33px;
+        text-align: center;
+        border: 1px solid #fc8f44;
+        width: 35%;
+    }
+.TITRE2
+    {
+        font-size: 33px;
+        font-family: Adobe hebrew;
+        text-align: center;
+        padding-top: 50px;
+    }
+.TT3
+    {
+        font-size: 8px;
+        font-family: Adobe hebrew;
+    }
+.TT31
+    {
+        font-family: Adobe hebrew;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .TT32
+    {
+        font-size: 12px;
+    
+    }
+.container3
+    {
+        margin-left: 130px;
+        padding-bottom: 40px;
+    }
+.CC
+    {
+      margin-left: 150px;
+      
+    }
+    .CCC
+    {
+      margin-left: 250px;
+      
+    }
+.IC
+    {
+        position: absolute;
+        margin-left: -90px;
+        margin-top: 12px;
+    }
+.ICC
+    {
+        position: absolute;
+        margin-left: -90px;
+        margin-top: 12px;
+
+    }
+.container4
+    {
+        background-color: #eaf2f6;
+        width: 100%;
+        position: absolute;
+    }
+.IMG3
+    {
+        width: 60%;
+        padding-top: 40px;
+        padding-bottom: 30px;
+        margin-left: 300px;
+       
+    }
+.TEXT7
+    {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+.P6
+    {
+        font-size: 30px;
+        color: black;
+        font-family: Adobe hebrew;
+    }
+    .P7
+    {
+        font-size: 24px;
+        color: gray;
+        font-family: Adobe hebrew;
+    }
+.P8
+    {
+        font-size: 12px;
+        color: gray;
+        font-family: Adobe hebrew;
+    }
+.container6
+    {
+        background-color:#003c5a;
+        height: 300px;
+        position: absolute;
+        top:1800px ;
+        width: 100%;
+    }
+.TITRE8
+    {
+        font-family: Adobe hebrew;
+        font-size: 30px;
+        color: white;
+        text-align: center;
+        padding-top: 50px;
+    }
+.P9
+    {
+        font-family: Adobe hebrew;
+        font-size: 12px;
+        color: rgb(24, 133, 196);
+        text-align: center;
+    }
+    .form-control
+    {
+        position: absolute;
+        border: 1px solid #fff;
+        width: 25%;
+        border-radius: 20px;
+        background-color: #fff;
+        left: 400px;
+        top: 155px;
+        height: 30px;
+        font-size: 12px;
+    }
+.btn3
+    {
+        border-radius: 20px;
+        background-color: #fc8f44;
+        color: #fff;
+        text-align: center;
+        border: 1px solid #fc8f44;
+        position: absolute;
+        left: 748px;
+        height: 30px;
+        width: 13%;
+        top: 155px;
+    }
+.container8
+    {
+        background-color: #fc8f44;
+        width: 100%;
+        height: 100px;
+        margin-top: 665px;
+        margin-right: 0px;
+        
+        
+    }
+   .myFooter{
+       margin-top:0px;
+       height: 200px;
+       background-color: #272727;
+       width: 100%;
+       margin-right: -15px;
+       padding-left: 0px;
+   }
+   .myFooterNav a{
+       margin-left: 25px;
+       color:grey;
+       font-size: 10px;
+      font-family: adobe hebrew;
+      text-decoration: none;
+   }
+   .myFooterNav a:hover{
+      color: white;
+      
+   }
+   .rowFooter{
+       margin-top: 30px;
+   }
+   .lang a{
+       font-size: 30px;
+       color:white;
+       font-family: adobe hebrew;
+       text-decoration: none;
+       margin-left: 175px;
+       padding-top: 20px;
+   }
+   .myFooterIcon a
+        {
+            padding-left: 15px;
+        }
+    .myFooterIcon a:hover
+        {
+            color:#fc8f44;
+        }
